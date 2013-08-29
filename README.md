@@ -4,4 +4,4 @@ line was given to me by twitter to emmbed my personal timeline
 This is a website to host the links to all my projects, keep updated with me and is to serve as a professional webpage for
 my future career.
 
-Feel free to copy amd take.
+Feel free to copy and take.
